@@ -48,7 +48,7 @@ mPullRefreshLayout.setOnRefreshListener(new OnRefreshListener() {
 mPullRefreshLayout.setRefreshing(...); // 布尔值指示刷新状态
 ```
 
-##### 相关的 View 属性
+##### 相关的 View 属性：
 ```
 app:headerViewId 指定下拉头部视图
 app:contentViewId 指定内容视图
